@@ -13,7 +13,7 @@ After installing Chocolatey, you can now install Yarn, running the following com
 
 choco install yarn
 
-Once you have all de dependencies installed, after download the project, open its path on cmd and execute:
+Once you have all the dependencies installed, after download the project, open its path on cmd and execute:
 
 yarn install
 
